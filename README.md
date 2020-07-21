@@ -1,25 +1,41 @@
 # IslandGame
-Making a Game From Scratch in Unity - Learning C# and Shaders
+Making a Game From Scratch to learn Unity - Learning C# and Shaders 
+Also Studying Blender
 
 Current Problems:
-Unable to Upload code to Collaborate
 
-Probable Solutions: Testing GitHub for Unity
+
+Probable Solutions: 
+
+
+------------------------------------------------------
 
 Things I'd like to do:
 
 Character Model     - Blender
+
 Character Model Rig - Blender
+
 Cartoon Shader      
+
 Day Night Cycle (Minion's)
+
 Grass Shader (Minion's)
+
 Animated transition load screens fades - Persona 5 Like
+
 Dialogue System
+
 Ballon Dialogues
+
 Menu Interface
+
 HUD UI
+
 Use New Input System
+
 Rebindable Keys at Runtime
+
 Nice Main Menu (Current one sucks)
 
 ------------------------------------------------------
