@@ -4,7 +4,23 @@ Making a Game From Scratch in Unity - Learning C# and Shaders
 Current Problems:
 Unable to Upload code to Collaborate
 
-Probable Solution: Testing GitHub for Unity
+Probable Solutions: Testing GitHub for Unity
+
+Things I'd like to do:
+
+Character Model     - Blender
+Character Model Rig - Blender
+Cartoon Shader      
+Day Night Cycle (Minion's)
+Grass Shader (Minion's)
+Animated transition load screens fades - Persona 5 Like
+Dialogue System
+Ballon Dialogues
+Menu Interface
+HUD UI
+Use New Input System
+Rebindable Keys at Runtime
+Nice Main Menu (Current one sucks)
 
 ------------------------------------------------------
 TUTORIALS USED:
