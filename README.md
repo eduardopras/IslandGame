@@ -3,7 +3,8 @@ Making a Game From Scratch in Unity - Learning C# and Shaders
 
 Current Problems:
 Unable to Upload code to Collaborate
-Solution: Testing GitHub for Unity
+
+Probable Solution: Testing GitHub for Unity
 
 ------------------------------------------------------
 TUTORIALS USED:
