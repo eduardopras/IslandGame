@@ -1,6 +1,7 @@
 # IslandGame
 Making a Game From Scratch to learn Unity - Learning C# and Shaders 
 Also Studying Blender
+Unity Version 2019.4.3f1
 
 Current Problems:
 
