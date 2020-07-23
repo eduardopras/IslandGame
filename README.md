@@ -65,4 +65,5 @@ https://github.com/ColinLeung-NiloCat/UnityURPToonLitShaderExample
 
 
 ------------------------------------------------------
-
+Useful Scripts that might come in handy:
+https://github.com/michidk/Unity-Script-Collection#editors
