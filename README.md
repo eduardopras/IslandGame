@@ -3,10 +3,10 @@ Making a Game From Scratch to learn Unity - Learning C# and Shaders
 Also Studying Blender
 Unity Version 2019.4.3f1
 
-Current Problems:
+Current Problems:Upload to GitHub 
 
 
-Probable Solutions: 
+Probable Solutions: GitHub for Unity
 
 
 ------------------------------------------------------
@@ -59,6 +59,9 @@ ASSETS:
 
 GitHub For Unity:                                   
 https://assetstore.unity.com/packages/tools/version-control/github-for-unity-118069
+
+Unity URP Simplified Toon Lit Shader:
+https://github.com/ColinLeung-NiloCat/UnityURPToonLitShaderExample
 
 
 ------------------------------------------------------
